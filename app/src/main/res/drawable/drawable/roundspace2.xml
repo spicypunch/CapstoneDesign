@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" android:padding="10dp">
+    <!--배경색-->
+    <solid android:color="#ff9f40"/>
+    <!--모서리 둥근정도 설정-->
+    <corners android:bottomRightRadius="0sp"
+        android:bottomLeftRadius="0sp"
+        android:topLeftRadius="0sp"
+        android:topRightRadius="0sp"/>
+
+</shape>
